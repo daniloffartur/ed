@@ -17,7 +17,7 @@ public class Employee {
         this.age = age;
     }
 
-    public Employee(String jonny, String progrmmer, String email, String phone) {
+    public Employee(String jonny, String programmer, String email, String phone) {
     }
 
     public String info(){

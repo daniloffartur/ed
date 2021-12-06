@@ -8,7 +8,7 @@ public class Main {
 
         employeeArray[0] = new Employee(
                 "John L",
-                "progrmmer",
+                "programmer",
                 "j@mail.ru",
                 "+7(999) 99-99-995",
                 100000,
@@ -17,7 +17,7 @@ public class Main {
 
         employeeArray[1] = new Employee(
                 "Bill N",
-                "progrmmer",
+                "programmer",
                 "j@mail.ru",
                 "+7(999) 99-99-996",
                 100000,
@@ -26,7 +26,7 @@ public class Main {
 
         employeeArray[2] = new Employee(
                 "Tom H",
-                "progrmmer",
+                "programmer",
                 "b@mail.ru",
                 "+7(999) 99-99-997",
                 100000,
@@ -35,7 +35,7 @@ public class Main {
 
         employeeArray[3] = new Employee(
                 "Pete V",
-                "progrmmer",
+                "programmer",
                 "p@mail.ru",
                 "+7(999) 99-99-998",
                 100000,
@@ -44,7 +44,7 @@ public class Main {
 
         employeeArray[4] = new Employee(
                 "Helen B",
-                "progrmmer",
+                "programmer",
                 "h@mail.ru",
                 "+7(999) 99-99-999",
                 100000,
